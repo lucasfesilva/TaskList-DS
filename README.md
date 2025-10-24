@@ -36,7 +36,12 @@ Este projeto é um sistema completo de gerenciamento de tarefas, implementando u
 
    -Abra o Visual Studio 2022, na pasta raiz do projeto TaskList-DS há um arquivo "appsettings.json", certifique-se de que o login e senha criados para o acesso ao banco estejam corretos:
    <pre>"ConnectionStrings": {
-    "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=taskDB;User Id=taskUser;Password=SenhaForte123!;Trusted_Connection=True;TrustServerCertificate=True;"
+    "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=taskDB;User Id=taskUser;Password=SenhaForte123!;Trusted_Connection=True;TrustServerCertificate=True;},"
    </pre>
 
-},`
+   -Para criar as tabelas no banco de dados abra o Console do Gerenciador de Pacotes e execute:
+   <pre>Update-Database</pre>
+
+3. **Rode a aplicação clicando em Iniciar no menu superior do Visual Studio 2022**
+
+
