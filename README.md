@@ -25,4 +25,10 @@ Este projeto é um sistema completo de gerenciamento de tarefas, implementando u
      `EXEC sp_addrolemember N'db_datareader', N'taskUser';
       EXEC sp_addrolemember N'db_datawriter', N'taskUser';
       GO` e tecle `F5` para executar.
-2. ****
+     
+2. **Visual Studio 2022**
+
+   -Abra o Visual Studio 2022, na pasta raiz do projeto TaskList-DS há um arquivo "appsettings.json", certifique-se de que o login e senha criados para o acesso ao banco estejam corretos:
+   `"ConnectionStrings": {
+    "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=taskDB;User Id=taskUser;Password=SenhaForte123!;Trusted_Connection=True;TrustServerCertificate=True;"
+},`
