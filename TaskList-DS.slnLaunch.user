@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "TaskList-DS\\TaskList-DS.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TaskList-Frontend\\TaskList-Frontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

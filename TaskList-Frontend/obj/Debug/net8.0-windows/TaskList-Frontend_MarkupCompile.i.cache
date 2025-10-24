@@ -1,0 +1,20 @@
+﻿TaskList-Frontend
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\
+TaskList_Frontend
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\App.xaml
+3-1658701124
+
+16703074719
+203-1672149479
+MainWindow.xaml;Views\HomeView.xaml;Views\NewTaskView.xaml;
+
+True
+

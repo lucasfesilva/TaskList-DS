@@ -1,0 +1,6 @@
+@TaskList_DS_HostAddress = http://localhost:5258
+
+GET {{TaskList_DS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,89 @@
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.exe
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.deps.json
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.runtimeconfig.json
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.dll
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.pdb
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend_MarkupCompile.cache
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend_MarkupCompile.lref
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.g.resources
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.AssemblyInfoInputs.cache
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.AssemblyInfo.cs
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.dll
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\refint\TaskList-Frontend.dll
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.pdb
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.genruntimeconfig.cache
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\ref\TaskList-Frontend.dll
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\HomeView.g.cs
+C:\Users\Lucas Felipe\source\repos\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\HomeView.baml
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.exe
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.deps.json
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.runtimeconfig.json
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.dll
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.pdb
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\HomeView.g.cs
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend_MarkupCompile.cache
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend_MarkupCompile.lref
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\HomeView.baml
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.g.resources
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.dll
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\refint\TaskList-Frontend.dll
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.pdb
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\ref\TaskList-Frontend.dll
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\NewTaskView.g.cs
+C:\Users\Usuario\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\NewTaskView.baml
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\HomeView.g.cs
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\NewTaskView.g.cs
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\App.g.cs
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend_MarkupCompile.cache
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend_MarkupCompile.lref
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\refint\TaskList-Frontend.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.pdb
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.exe
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.deps.json
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.runtimeconfig.json
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\TaskList-Frontend.pdb
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\HomeView.baml
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\Views\NewTaskView.baml
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.g.resources
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.AssemblyInfoInputs.cache
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.AssemblyInfo.cs
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.csproj.CoreCompileInputs.cache
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.genruntimeconfig.cache
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\ref\TaskList-Frontend.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList-Frontend.csproj.AssemblyReference.cache
+D:\Arquivos Locais\Downloads\TaskList-DS\TaskList-DS\TaskList-Frontend\obj\Debug\net8.0-windows\TaskList.768B9D96.Up2Date
