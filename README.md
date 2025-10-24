@@ -18,7 +18,9 @@ Este projeto é um sistema completo de gerenciamento de tarefas, implementando u
 
    - Abra o Microsft SQL Server Management Studio e realize o login utilizando as credenciais do Windows ou a sua própria
    - Em "Banco de Dados" crie um novo banco de dados com o nome **taskDB**.
-   - Abra uma nova consulta.
+   - Abra uma nova consulta e execute:
+     <pre>```CREATE LOGIN [TaskDbUser] WITH PASSWORD = 'SenhaForte123!';
+              GO```</pre>
    - Para criar o novo login e senha em nível de servidor, digite: `CREATE LOGIN [TaskDbUser] WITH PASSWORD = 'SenhaForte123!' GO` e aperte `F5` no teclado para executar.
    - Para criar o login e senha do banco, digite: `USE [taskDb]; GO` e tecle `F5` novamente, em seguida, digite: `CREATE USER [taskUser] FOR LOGIN [TaskDbUser]; GO` e tecle `F5`.
    - Conceda as permissões de leitura e gravação digitando:
@@ -31,4 +33,5 @@ Este projeto é um sistema completo de gerenciamento de tarefas, implementando u
    -Abra o Visual Studio 2022, na pasta raiz do projeto TaskList-DS há um arquivo "appsettings.json", certifique-se de que o login e senha criados para o acesso ao banco estejam corretos:
    `"ConnectionStrings": {
     "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=taskDB;User Id=taskUser;Password=SenhaForte123!;Trusted_Connection=True;TrustServerCertificate=True;"
+
 },`
