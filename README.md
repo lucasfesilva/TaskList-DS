@@ -20,13 +20,13 @@ Este projeto é um sistema completo de gerenciamento de tarefas, implementando u
    - Em "Banco de Dados" crie um novo banco de dados com o nome **taskDB**.
    - Abra uma nova consulta e execute:
      <pre>CREATE LOGIN [taskDbUser] WITH PASSWORD = 'SenhaForte123!';
-         GO</pre>
+      GO</pre>
    - Para criar o login e senha do banco, execute:
      <pre>USE [taskDb];
-           GO</pre>
+      GO</pre>
    - Em seguida, digite:
      <pre>CREATE USER [taskUser] FOR LOGIN [taskDbUser];
-           GO</pre>
+      GO</pre>
    - Conceda as permissões de leitura e gravação:
      <pre>EXEC sp_addrolemember N'db_datareader', N'taskUser';
       EXEC sp_addrolemember N'db_datawriter', N'taskUser';
@@ -35,7 +35,8 @@ Este projeto é um sistema completo de gerenciamento de tarefas, implementando u
 2. **Visual Studio 2022**
 
    -Abra o Visual Studio 2022, na pasta raiz do projeto TaskList-DS há um arquivo "appsettings.json", certifique-se de que o login e senha criados para o acesso ao banco estejam corretos:
-   `"ConnectionStrings": {
+   <pre>"ConnectionStrings": {
     "DefaultConnection": "Server=localhost\\SQLEXPRESS;Database=taskDB;User Id=taskUser;Password=SenhaForte123!;Trusted_Connection=True;TrustServerCertificate=True;"
+   </pre>
 
 },`
