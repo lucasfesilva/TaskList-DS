@@ -19,14 +19,18 @@ Este projeto é um sistema completo de gerenciamento de tarefas, implementando u
    - Abra o Microsft SQL Server Management Studio e realize o login utilizando as credenciais do Windows ou a sua própria
    - Em "Banco de Dados" crie um novo banco de dados com o nome **taskDB**.
    - Abra uma nova consulta e execute:
-     <pre>```CREATE LOGIN [TaskDbUser] WITH PASSWORD = 'SenhaForte123!';
-              GO```</pre>
-   - Para criar o novo login e senha em nível de servidor, digite: `CREATE LOGIN [TaskDbUser] WITH PASSWORD = 'SenhaForte123!' GO` e aperte `F5` no teclado para executar.
-   - Para criar o login e senha do banco, digite: `USE [taskDb]; GO` e tecle `F5` novamente, em seguida, digite: `CREATE USER [taskUser] FOR LOGIN [TaskDbUser]; GO` e tecle `F5`.
-   - Conceda as permissões de leitura e gravação digitando:
-     `EXEC sp_addrolemember N'db_datareader', N'taskUser';
+     <pre>CREATE LOGIN [taskDbUser] WITH PASSWORD = 'SenhaForte123!';
+         GO</pre>
+   - Para criar o login e senha do banco, execute:
+     <pre>USE [taskDb];
+           GO</pre>
+   - Em seguida, digite:
+     <pre>CREATE USER [taskUser] FOR LOGIN [taskDbUser];
+           GO</pre>
+   - Conceda as permissões de leitura e gravação:
+     <pre>EXEC sp_addrolemember N'db_datareader', N'taskUser';
       EXEC sp_addrolemember N'db_datawriter', N'taskUser';
-      GO` e tecle `F5` para executar.
+      GO</pre>
      
 2. **Visual Studio 2022**
 
